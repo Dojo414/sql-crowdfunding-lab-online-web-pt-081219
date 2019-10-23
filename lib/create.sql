@@ -1,4 +1,4 @@
-CREATE TABLE projects (
+CREATE TABLE projects(
   id INTEGER PRIMARY KEY,
   title TEXT,
   category TEXT,
@@ -6,3 +6,4 @@ CREATE TABLE projects (
   start_date TEXT,
   end_date TEXT
 );
+
