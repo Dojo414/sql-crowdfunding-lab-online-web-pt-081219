@@ -18,3 +18,4 @@ INSERT INTO users (name, age) VALUES ("Colin Smith", 32);
 INSERT INTO users (name, age) VALUES ("Duncan Smith", 25);
 INSERT INTO users (name, age) VALUES ("Chris Kerr", 36);
 INSERT INTO users (name, age) VALUES ("Tammy Cappleman", 58);
+
