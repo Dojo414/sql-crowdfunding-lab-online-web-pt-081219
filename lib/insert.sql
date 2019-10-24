@@ -1,1 +1,20 @@
-INSERT INTO users (name, age) VALUES ("Donovan")
+INSERT INTO users (name, age) VALUES ("Donovan Jones", 25);
+INSERT INTO users (name, age) VALUES ("Lionel Plaisance", 32);
+INSERT INTO users (name, age) VALUES ("Madeline Smith", 21);
+INSERT INTO users (name, age) VALUES ("Anjum Perfetti-Reid", 30);
+INSERT INTO users (name, age) VALUES ("John Crane", 41);
+INSERT INTO users (name, age) VALUES ("John Jones", 63);
+INSERT INTO users (name, age) VALUES ("Pat Jones", 59);
+INSERT INTO users (name, age) VALUES ("Cheryl Jones", 38);
+INSERT INTO users (name, age) VALUES ("Ramon Ortiz", 35);
+INSERT INTO users (name, age) VALUES ("Cathy Corwin", 65);
+INSERT INTO users (name, age) VALUES ("Matthew Bodie", 55);
+INSERT INTO users (name, age) VALUES ("Damon Kuhn", 45);
+INSERT INTO users (name, age) VALUES ("Dawn Ellis", 42);
+INSERT INTO users (name, age) VALUES ("Chase Morrison", 21);
+INSERT INTO users (name, age) VALUES ("Kim Goldberg", 30);
+INSERT INTO users (name, age) VALUES ("Sherie Goldberg", 33);
+INSERT INTO users (name, age) VALUES ("Colin Smith", 32);
+INSERT INTO users (name, age) VALUES ("Duncan Smith", 25);
+INSERT INTO users (name, age) VALUES ("Chris Kerr", 36);
+INSERT INTO users (name, age) VALUES ("Tammy Cappleman", 58);
